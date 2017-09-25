@@ -31,5 +31,5 @@ public class C31Test {
     public void testMB() {
         assertEquals("mB", c31.mB());
     }
-
+    
 }
